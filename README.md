@@ -154,6 +154,7 @@ node tools/repro_outro.mjs
 │
 ├── data/                          随包数据（自包含，不依赖仓库外部）
 │   ├── 02_TIMELINE.json             权威时间轴（镜头/章节/歌词锚点）
+│
 ├── media/
 │   ├── player_audio.m4a             3s 静音 + 母版 + 4s 尾静音 = 218.98s
 │   └── player_audio.json            音轨 manifest（时长构成）
