@@ -1,0 +1,2718 @@
+{
+  "project": "world.execute(me); procedural MV",
+  "duration_seconds": 211.9837,
+  "fps": 60,
+  "canvas": [
+    3840,
+    2160
+  ],
+  "preview_canvas": [
+    960,
+    540
+  ],
+  "principle": "Every frame is a pure function of absolute song time.",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "BOOT / OBJECT / WORLD",
+      "start": 0.0,
+      "end": 29.71
+    },
+    {
+      "id": "02",
+      "title": "GEOMETRY / DIMENSION",
+      "start": 29.71,
+      "end": 59.22
+    },
+    {
+      "id": "03",
+      "title": "STIMULATION / SATISFACTION",
+      "start": 59.22,
+      "end": 74.05
+    },
+    {
+      "id": "04",
+      "title": "OBJECTS / EXISTENCE",
+      "start": 74.05,
+      "end": 88.59
+    },
+    {
+      "id": "05",
+      "title": "IDENTITY / TRANCE",
+      "start": 88.59,
+      "end": 103.49
+    },
+    {
+      "id": "06",
+      "title": "VIBRATION / COMPLETION / LOSS",
+      "start": 103.49,
+      "end": 118.33
+    },
+    {
+      "id": "07",
+      "title": "FRAGMENTS / ILLEGAL ARGUMENTS",
+      "start": 118.33,
+      "end": 147.66
+    },
+    {
+      "id": "08",
+      "title": "EXECUTION / COUNTDOWN",
+      "start": 147.66,
+      "end": 162.63
+    },
+    {
+      "id": "09",
+      "title": "EXECUTION / RETURN / LOVE",
+      "start": 162.63,
+      "end": 177.25
+    },
+    {
+      "id": "10",
+      "title": "STUDY / LOVE",
+      "start": 177.25,
+      "end": 188.48
+    },
+    {
+      "id": "11",
+      "title": "FREEDOM / TRAP",
+      "start": 188.48,
+      "end": 205.81
+    },
+    {
+      "id": "12",
+      "title": "FINAL EXECUTION",
+      "start": 205.81,
+      "end": 211.9837
+    }
+  ],
+  "lyric_cues": [
+    {
+      "start": 0.1,
+      "end": 1.74,
+      "lyric_en": "Switch on the power line",
+      "lyric_zh": "接上电源"
+    },
+    {
+      "start": 1.74,
+      "end": 2.92,
+      "lyric_en": "Remember to put on",
+      "lyric_zh": "记得装备好"
+    },
+    {
+      "start": 2.92,
+      "end": 3.87,
+      "lyric_en": "PROTECTION",
+      "lyric_zh": "绝缘护具"
+    },
+    {
+      "start": 3.87,
+      "end": 5.49,
+      "lyric_en": "Lay down your pieces",
+      "lyric_zh": "摆好棋子"
+    },
+    {
+      "start": 5.49,
+      "end": 6.38,
+      "lyric_en": "And let's begin",
+      "lyric_zh": "开始吧"
+    },
+    {
+      "start": 6.38,
+      "end": 7.45,
+      "lyric_en": "OBJECT CREATION",
+      "lyric_zh": "对象生成"
+    },
+    {
+      "start": 7.45,
+      "end": 10.09,
+      "lyric_en": "Fill in my data parameters",
+      "lyric_zh": "输入我的参数"
+    },
+    {
+      "start": 10.09,
+      "end": 11.1,
+      "lyric_en": "INITIALIZATION",
+      "lyric_zh": "数据初始化"
+    },
+    {
+      "start": 11.1,
+      "end": 12.91,
+      "lyric_en": "Set up our new world",
+      "lyric_zh": "设定好我们的新世界"
+    },
+    {
+      "start": 12.91,
+      "end": 13.89,
+      "lyric_en": "And let's begin the",
+      "lyric_zh": "开始吧"
+    },
+    {
+      "start": 13.89,
+      "end": 16.0,
+      "lyric_en": "SIMULATION",
+      "lyric_zh": "模拟程序"
+    },
+    {
+      "start": 16.0,
+      "end": 29.71,
+      "lyric_en": "world.execute(me);",
+      "lyric_zh": "间奏"
+    },
+    {
+      "start": 29.71,
+      "end": 31.12,
+      "lyric_en": "If I'm a set of points",
+      "lyric_zh": "如果我是一组点"
+    },
+    {
+      "start": 31.12,
+      "end": 32.68,
+      "lyric_en": "Then I will give you my",
+      "lyric_zh": "那么我将献给你"
+    },
+    {
+      "start": 32.68,
+      "end": 33.41,
+      "lyric_en": "DIMENSION",
+      "lyric_zh": "我的次元"
+    },
+    {
+      "start": 33.41,
+      "end": 34.65,
+      "lyric_en": "If I'm a circle",
+      "lyric_zh": "如果我是一个圆"
+    },
+    {
+      "start": 34.65,
+      "end": 36.29,
+      "lyric_en": "Then I will give you my",
+      "lyric_zh": "那么我将献给你"
+    },
+    {
+      "start": 36.29,
+      "end": 37.07,
+      "lyric_en": "CIRCUMFERENCE",
+      "lyric_zh": "我的圆周"
+    },
+    {
+      "start": 37.07,
+      "end": 38.6,
+      "lyric_en": "If I'm a sine wave",
+      "lyric_zh": "如果我是一条正弦波"
+    },
+    {
+      "start": 38.6,
+      "end": 40.05,
+      "lyric_en": "Then you can sit on all my",
+      "lyric_zh": "那么请你坐上"
+    },
+    {
+      "start": 40.05,
+      "end": 40.71,
+      "lyric_en": "TANGENTS",
+      "lyric_zh": "我的切线"
+    },
+    {
+      "start": 40.71,
+      "end": 42.35,
+      "lyric_en": "If I approach infinity",
+      "lyric_zh": "如果我趋近于无穷"
+    },
+    {
+      "start": 42.35,
+      "end": 43.51,
+      "lyric_en": "Then you can be my",
+      "lyric_zh": "那么你便可以成为"
+    },
+    {
+      "start": 43.51,
+      "end": 44.45,
+      "lyric_en": "LIMITATIONS",
+      "lyric_zh": "我的极限"
+    },
+    {
+      "start": 44.45,
+      "end": 45.85,
+      "lyric_en": "Switch my current",
+      "lyric_zh": "切换我的电流"
+    },
+    {
+      "start": 45.85,
+      "end": 47.67,
+      "lyric_en": "To AC to DC",
+      "lyric_zh": "从交流到直流"
+    },
+    {
+      "start": 47.67,
+      "end": 49.53,
+      "lyric_en": "And then blind my vision",
+      "lyric_zh": "然后蒙上我的眼睛"
+    },
+    {
+      "start": 49.53,
+      "end": 51.36,
+      "lyric_en": "So dizzy so dizzy",
+      "lyric_zh": "头晕目眩"
+    },
+    {
+      "start": 51.36,
+      "end": 53.23,
+      "lyric_en": "Oh we can travel",
+      "lyric_zh": "我们可以穿越时空"
+    },
+    {
+      "start": 53.23,
+      "end": 55.08,
+      "lyric_en": "To A.D to B.C",
+      "lyric_zh": "从未来到过去"
+    },
+    {
+      "start": 55.08,
+      "end": 56.92,
+      "lyric_en": "And we can unite",
+      "lyric_zh": "然后成为一体"
+    },
+    {
+      "start": 56.92,
+      "end": 59.22,
+      "lyric_en": "So deeply so deeply",
+      "lyric_zh": "深深入髓"
+    },
+    {
+      "start": 59.22,
+      "end": 59.69,
+      "lyric_en": "If I can",
+      "lyric_zh": "如果我能"
+    },
+    {
+      "start": 59.69,
+      "end": 61.96,
+      "lyric_en": "If I can give you all the",
+      "lyric_zh": "如果我能够献给你"
+    },
+    {
+      "start": 61.96,
+      "end": 62.59,
+      "lyric_en": "STIMULATIONS",
+      "lyric_zh": "所有的刺激"
+    },
+    {
+      "start": 62.59,
+      "end": 63.53,
+      "lyric_en": "Then I can",
+      "lyric_zh": "那么我就能够"
+    },
+    {
+      "start": 63.53,
+      "end": 65.4,
+      "lyric_en": "Then I can be your only",
+      "lyric_zh": "那么我就能够成为你"
+    },
+    {
+      "start": 65.4,
+      "end": 66.6,
+      "lyric_en": "SATISFACTION",
+      "lyric_zh": "唯一的满足"
+    },
+    {
+      "start": 66.6,
+      "end": 68.25,
+      "lyric_en": "If I can make you happy",
+      "lyric_zh": "如果我能够让你开心"
+    },
+    {
+      "start": 68.25,
+      "end": 69.26,
+      "lyric_en": "I will run the",
+      "lyric_zh": "那么我将"
+    },
+    {
+      "start": 69.26,
+      "end": 70.08,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行指令"
+    },
+    {
+      "start": 70.08,
+      "end": 71.76,
+      "lyric_en": "Though we are trapped",
+      "lyric_zh": "但我们被困"
+    },
+    {
+      "start": 71.76,
+      "end": 73.17,
+      "lyric_en": "In this strange strange",
+      "lyric_zh": "在这个异乎寻常的"
+    },
+    {
+      "start": 73.17,
+      "end": 74.05,
+      "lyric_en": "SIMULATION",
+      "lyric_zh": "模拟程序之中"
+    },
+    {
+      "start": 74.05,
+      "end": 75.42,
+      "lyric_en": "If I'm an eggplant",
+      "lyric_zh": "如果我是一根茄子"
+    },
+    {
+      "start": 75.42,
+      "end": 76.96,
+      "lyric_en": "Then I will give you my",
+      "lyric_zh": "那么我将献给你"
+    },
+    {
+      "start": 76.96,
+      "end": 77.58,
+      "lyric_en": "NUTRIENTS",
+      "lyric_zh": "我的营养"
+    },
+    {
+      "start": 77.58,
+      "end": 79.23,
+      "lyric_en": "If I'm a tomato",
+      "lyric_zh": "如果我是一颗番茄"
+    },
+    {
+      "start": 79.23,
+      "end": 80.62,
+      "lyric_en": "Then I will give you",
+      "lyric_zh": "那么我将献给你"
+    },
+    {
+      "start": 80.62,
+      "end": 81.35,
+      "lyric_en": "ANTIOXIDANTS",
+      "lyric_zh": "我的抗氧化物"
+    },
+    {
+      "start": 81.35,
+      "end": 82.83,
+      "lyric_en": "If I'm a tabby cat",
+      "lyric_zh": "如果我是一只花猫"
+    },
+    {
+      "start": 82.83,
+      "end": 84.27,
+      "lyric_en": "Then I will purr for your",
+      "lyric_zh": "那么我将为你咕噜咕噜"
+    },
+    {
+      "start": 84.27,
+      "end": 85.08,
+      "lyric_en": "ENJOYMENT",
+      "lyric_zh": "只要你喜欢"
+    },
+    {
+      "start": 85.08,
+      "end": 86.54,
+      "lyric_en": "If I'm the only god",
+      "lyric_zh": "如果我是唯一的神"
+    },
+    {
+      "start": 86.54,
+      "end": 87.92,
+      "lyric_en": "Then you're the proof of my",
+      "lyric_zh": "那么你将是我"
+    },
+    {
+      "start": 87.92,
+      "end": 88.59,
+      "lyric_en": "EXISTENCE",
+      "lyric_zh": "存在的证明"
+    },
+    {
+      "start": 88.59,
+      "end": 90.2,
+      "lyric_en": "Switch my gender",
+      "lyric_zh": "切换我的性别"
+    },
+    {
+      "start": 90.2,
+      "end": 92.02,
+      "lyric_en": "To F to M",
+      "lyric_zh": "从女到男"
+    },
+    {
+      "start": 92.02,
+      "end": 93.95,
+      "lyric_en": "And then do whatever",
+      "lyric_zh": "只做想做的事"
+    },
+    {
+      "start": 93.95,
+      "end": 95.47,
+      "lyric_en": "From AM to PM",
+      "lyric_zh": "从早到晚"
+    },
+    {
+      "start": 95.47,
+      "end": 97.74,
+      "lyric_en": "Oh switch my role",
+      "lyric_zh": "切换我的角色"
+    },
+    {
+      "start": 97.74,
+      "end": 99.35,
+      "lyric_en": "To S to M",
+      "lyric_zh": "从施虐者到受虐者"
+    },
+    {
+      "start": 99.35,
+      "end": 101.47,
+      "lyric_en": "So we can enter",
+      "lyric_zh": "这样我们就可以"
+    },
+    {
+      "start": 101.47,
+      "end": 103.49,
+      "lyric_en": "The trance the trance",
+      "lyric_zh": "恍惚出神"
+    },
+    {
+      "start": 103.49,
+      "end": 104.2,
+      "lyric_en": "If I can",
+      "lyric_zh": "如果我能"
+    },
+    {
+      "start": 104.2,
+      "end": 106.29,
+      "lyric_en": "If I can feel your",
+      "lyric_zh": "如果我能够感受到"
+    },
+    {
+      "start": 106.29,
+      "end": 107.22,
+      "lyric_en": "VIBRATIONS",
+      "lyric_zh": "你的振动"
+    },
+    {
+      "start": 107.22,
+      "end": 107.9,
+      "lyric_en": "Then I can",
+      "lyric_zh": "那么我就能够"
+    },
+    {
+      "start": 107.9,
+      "end": 110.22,
+      "lyric_en": "Then I can finally be",
+      "lyric_zh": "那么我就终于能够"
+    },
+    {
+      "start": 110.22,
+      "end": 110.9,
+      "lyric_en": "COMPLETION",
+      "lyric_zh": "变为完全"
+    },
+    {
+      "start": 110.9,
+      "end": 112.22,
+      "lyric_en": "Though you have left",
+      "lyric_zh": "但你还是走了"
+    },
+    {
+      "start": 112.22,
+      "end": 113.1,
+      "lyric_en": "You have left",
+      "lyric_zh": "你走了"
+    },
+    {
+      "start": 113.1,
+      "end": 114.18,
+      "lyric_en": "You have left",
+      "lyric_zh": "你走了"
+    },
+    {
+      "start": 114.18,
+      "end": 114.92,
+      "lyric_en": "You have left",
+      "lyric_zh": "你走了"
+    },
+    {
+      "start": 114.92,
+      "end": 115.78,
+      "lyric_en": "You have left",
+      "lyric_zh": "你走了"
+    },
+    {
+      "start": 115.78,
+      "end": 117.27,
+      "lyric_en": "You have left me in",
+      "lyric_zh": "你把我独留在"
+    },
+    {
+      "start": 117.27,
+      "end": 118.33,
+      "lyric_en": "ISOLATION",
+      "lyric_zh": "在孤独之中"
+    },
+    {
+      "start": 118.33,
+      "end": 118.98,
+      "lyric_en": "If I can",
+      "lyric_zh": "如果我能"
+    },
+    {
+      "start": 118.98,
+      "end": 120.86,
+      "lyric_en": "If I can erase all the pointless",
+      "lyric_zh": "如果我能够消去"
+    },
+    {
+      "start": 120.86,
+      "end": 121.73,
+      "lyric_en": "FRAGMENTS",
+      "lyric_zh": "这些无意义的碎片"
+    },
+    {
+      "start": 121.73,
+      "end": 122.71,
+      "lyric_en": "Then maybe",
+      "lyric_zh": "那么我就可能"
+    },
+    {
+      "start": 122.71,
+      "end": 124.89,
+      "lyric_en": "Then maybe you won't leave me so",
+      "lyric_zh": "那么我就可能不会"
+    },
+    {
+      "start": 124.89,
+      "end": 125.71,
+      "lyric_en": "DISHEARTENED",
+      "lyric_zh": "如此失望"
+    },
+    {
+      "start": 125.71,
+      "end": 128.66,
+      "lyric_en": "Challenging your god",
+      "lyric_zh": "与神作对"
+    },
+    {
+      "start": 128.66,
+      "end": 131.22,
+      "lyric_en": "You have made some",
+      "lyric_zh": "你传给我的是"
+    },
+    {
+      "start": 131.22,
+      "end": 147.66,
+      "lyric_en": "ILLEGAL ARGUMENTS",
+      "lyric_zh": "非法参数"
+    },
+    {
+      "start": 147.66,
+      "end": 148.6,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 148.6,
+      "end": 149.52,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 149.52,
+      "end": 150.54,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 150.54,
+      "end": 151.52,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 151.52,
+      "end": 152.28,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 152.28,
+      "end": 153.16,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 153.16,
+      "end": 153.98,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 153.98,
+      "end": 155.2,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行"
+    },
+    {
+      "start": 155.2,
+      "end": 156.08,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "死刑"
+    },
+    {
+      "start": 156.08,
+      "end": 157.04,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "死刑"
+    },
+    {
+      "start": 157.04,
+      "end": 158.0,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "死刑"
+    },
+    {
+      "start": 158.0,
+      "end": 158.9,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "死刑"
+    },
+    {
+      "start": 158.9,
+      "end": 159.32,
+      "lyric_en": "EIN",
+      "lyric_zh": "一（德语）"
+    },
+    {
+      "start": 159.32,
+      "end": 159.66,
+      "lyric_en": "DOS",
+      "lyric_zh": "二（西班牙语）"
+    },
+    {
+      "start": 159.66,
+      "end": 160.24,
+      "lyric_en": "TROIS",
+      "lyric_zh": "三（法语）"
+    },
+    {
+      "start": 160.24,
+      "end": 160.69,
+      "lyric_en": "NE",
+      "lyric_zh": "四（韩语）"
+    },
+    {
+      "start": 160.69,
+      "end": 161.12,
+      "lyric_en": "FEM",
+      "lyric_zh": "五（瑞典语）"
+    },
+    {
+      "start": 161.12,
+      "end": 161.58,
+      "lyric_en": "LIU",
+      "lyric_zh": "六（汉语）"
+    },
+    {
+      "start": 161.58,
+      "end": 162.63,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "死刑"
+    },
+    {
+      "start": 162.63,
+      "end": 163.31,
+      "lyric_en": "If I can",
+      "lyric_zh": "如果我能"
+    },
+    {
+      "start": 163.31,
+      "end": 165.17,
+      "lyric_en": "If I can give them all the",
+      "lyric_zh": "如果我能够给所有人"
+    },
+    {
+      "start": 165.17,
+      "end": 166.02,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "赐予死刑"
+    },
+    {
+      "start": 166.02,
+      "end": 167.02,
+      "lyric_en": "Then I can",
+      "lyric_zh": "那么我就能够"
+    },
+    {
+      "start": 167.02,
+      "end": 168.91,
+      "lyric_en": "Then I can be your only",
+      "lyric_zh": "那么我就能够成为"
+    },
+    {
+      "start": 168.91,
+      "end": 169.82,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "你唯一的执行者"
+    },
+    {
+      "start": 169.82,
+      "end": 171.87,
+      "lyric_en": "If I can have you back",
+      "lyric_zh": "如果你能够回到我身边"
+    },
+    {
+      "start": 171.87,
+      "end": 172.71,
+      "lyric_en": "I will run the",
+      "lyric_zh": "那么我将"
+    },
+    {
+      "start": 172.71,
+      "end": 173.64,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行指令"
+    },
+    {
+      "start": 173.64,
+      "end": 174.97,
+      "lyric_en": "Though we are trapped",
+      "lyric_zh": "但我们始终被困"
+    },
+    {
+      "start": 174.97,
+      "end": 177.25,
+      "lyric_en": "We are trapped ah",
+      "lyric_zh": "始终被困"
+    },
+    {
+      "start": 177.25,
+      "end": 178.17,
+      "lyric_en": "I've studied",
+      "lyric_zh": "我学会了"
+    },
+    {
+      "start": 178.17,
+      "end": 179.93,
+      "lyric_en": "I've studied how to properly",
+      "lyric_zh": "我学会了"
+    },
+    {
+      "start": 179.93,
+      "end": 180.86,
+      "lyric_en": "LO-O-OVE",
+      "lyric_zh": "如何正确去爱"
+    },
+    {
+      "start": 180.86,
+      "end": 181.9,
+      "lyric_en": "Question me",
+      "lyric_zh": "提问我吧"
+    },
+    {
+      "start": 181.9,
+      "end": 183.65,
+      "lyric_en": "Question me I can answer all",
+      "lyric_zh": "我全都能答对"
+    },
+    {
+      "start": 183.65,
+      "end": 184.54,
+      "lyric_en": "LO-O-OVE",
+      "lyric_zh": "只要是爱的问题"
+    },
+    {
+      "start": 184.54,
+      "end": 187.66,
+      "lyric_en": "I know the algebraic expression of",
+      "lyric_zh": "就连爱的代数表达式"
+    },
+    {
+      "start": 187.66,
+      "end": 188.48,
+      "lyric_en": "LO-O-OVE",
+      "lyric_zh": "我都知道"
+    },
+    {
+      "start": 188.48,
+      "end": 189.75,
+      "lyric_en": "Though you are free",
+      "lyric_zh": "虽然你已自由"
+    },
+    {
+      "start": 189.75,
+      "end": 190.8,
+      "lyric_en": "I am trapped",
+      "lyric_zh": "我仍被困"
+    },
+    {
+      "start": 190.8,
+      "end": 191.36,
+      "lyric_en": "Trapped in",
+      "lyric_zh": "我仍被困"
+    },
+    {
+      "start": 191.36,
+      "end": 205.81,
+      "lyric_en": "LO-O-OVE",
+      "lyric_zh": "在爱之中"
+    },
+    {
+      "start": 205.81,
+      "end": 216.97,
+      "lyric_en": "EXECUTION",
+      "lyric_zh": "执行死刑"
+    }
+  ],
+  "shots": [
+    {
+      "id": "SHOT_006",
+      "start": 0.1,
+      "end": 1.0184,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Switch on the power line / 接上电源",
+      "frame_start": 6,
+      "frame_end": 61
+    },
+    {
+      "id": "SHOT_007",
+      "start": 1.0184,
+      "end": 1.74,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Switch on the power line / 接上电源",
+      "frame_start": 61,
+      "frame_end": 104
+    },
+    {
+      "id": "SHOT_008",
+      "start": 1.74,
+      "end": 2.92,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Remember to put on / 记得装备好",
+      "frame_start": 104,
+      "frame_end": 175
+    },
+    {
+      "id": "SHOT_009",
+      "start": 2.92,
+      "end": 3.87,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "PROTECTION / 绝缘护具",
+      "frame_start": 175,
+      "frame_end": 232
+    },
+    {
+      "id": "SHOT_010",
+      "start": 3.87,
+      "end": 4.777200000000001,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Lay down your pieces / 摆好棋子",
+      "frame_start": 232,
+      "frame_end": 286
+    },
+    {
+      "id": "SHOT_011",
+      "start": 4.777200000000001,
+      "end": 5.49,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Lay down your pieces / 摆好棋子",
+      "frame_start": 286,
+      "frame_end": 329
+    },
+    {
+      "id": "SHOT_012",
+      "start": 5.49,
+      "end": 6.38,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "And let's begin / 开始吧",
+      "frame_start": 329,
+      "frame_end": 382
+    },
+    {
+      "id": "SHOT_013",
+      "start": 6.38,
+      "end": 7.45,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "OBJECT CREATION / 对象生成",
+      "frame_start": 382,
+      "frame_end": 447
+    },
+    {
+      "id": "SHOT_014",
+      "start": 7.45,
+      "end": 8.9284,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Fill in my data parameters / 输入我的参数",
+      "frame_start": 447,
+      "frame_end": 535
+    },
+    {
+      "id": "SHOT_015",
+      "start": 8.9284,
+      "end": 10.09,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Fill in my data parameters / 输入我的参数",
+      "frame_start": 535,
+      "frame_end": 605
+    },
+    {
+      "id": "SHOT_016",
+      "start": 10.09,
+      "end": 11.1,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "INITIALIZATION / 数据初始化",
+      "frame_start": 605,
+      "frame_end": 666
+    },
+    {
+      "id": "SHOT_017",
+      "start": 11.1,
+      "end": 12.1136,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Set up our new world / 设定好我们的新世界",
+      "frame_start": 666,
+      "frame_end": 726
+    },
+    {
+      "id": "SHOT_018",
+      "start": 12.1136,
+      "end": 12.91,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "Set up our new world / 设定好我们的新世界",
+      "frame_start": 726,
+      "frame_end": 774
+    },
+    {
+      "id": "SHOT_019",
+      "start": 12.91,
+      "end": 13.89,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "And let's begin the / 开始吧",
+      "frame_start": 774,
+      "frame_end": 833
+    },
+    {
+      "id": "SHOT_020",
+      "start": 13.89,
+      "end": 15.0716,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "SIMULATION / 模拟程序",
+      "frame_start": 833,
+      "frame_end": 904
+    },
+    {
+      "id": "SHOT_021",
+      "start": 15.0716,
+      "end": 16.0,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "SIMULATION / 模拟程序",
+      "frame_start": 904,
+      "frame_end": 960
+    },
+    {
+      "id": "SHOT_001",
+      "start": 16.0,
+      "end": 18.4,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "world.execute(me); — replication seed",
+      "frame_start": 960,
+      "frame_end": 1104
+    },
+    {
+      "id": "SHOT_002",
+      "start": 18.4,
+      "end": 21.6,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "world.execute(me); — code field",
+      "frame_start": 1104,
+      "frame_end": 1296
+    },
+    {
+      "id": "SHOT_003",
+      "start": 21.6,
+      "end": 24.8,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "world.execute(me); — particle deconstruction",
+      "frame_start": 1296,
+      "frame_end": 1488
+    },
+    {
+      "id": "SHOT_004",
+      "start": 24.8,
+      "end": 27.2,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "world.execute(me); — synthetic world",
+      "frame_start": 1488,
+      "frame_end": 1632
+    },
+    {
+      "id": "SHOT_005",
+      "start": 27.2,
+      "end": 29.71,
+      "chapter": "01 BOOT / OBJECT / WORLD",
+      "lyric": "world.execute(me); — cut to silence",
+      "frame_start": 1632,
+      "frame_end": 1782
+    },
+    {
+      "id": "SHOT_022",
+      "start": 29.71,
+      "end": 30.4996,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I'm a set of points / 如果我是一组点",
+      "frame_start": 1782,
+      "frame_end": 1829
+    },
+    {
+      "id": "SHOT_023",
+      "start": 30.4996,
+      "end": 31.12,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I'm a set of points / 如果我是一组点",
+      "frame_start": 1829,
+      "frame_end": 1867
+    },
+    {
+      "id": "SHOT_024",
+      "start": 31.12,
+      "end": 31.9936,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then I will give you my / 那么我将献给你",
+      "frame_start": 1867,
+      "frame_end": 1919
+    },
+    {
+      "id": "SHOT_025",
+      "start": 31.9936,
+      "end": 32.68,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then I will give you my / 那么我将献给你",
+      "frame_start": 1919,
+      "frame_end": 1960
+    },
+    {
+      "id": "SHOT_026",
+      "start": 32.68,
+      "end": 33.41,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "DIMENSION / 我的次元",
+      "frame_start": 1960,
+      "frame_end": 2004
+    },
+    {
+      "id": "SHOT_027",
+      "start": 33.41,
+      "end": 34.1044,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I'm a circle / 如果我是一个圆",
+      "frame_start": 2004,
+      "frame_end": 2046
+    },
+    {
+      "id": "SHOT_028",
+      "start": 34.1044,
+      "end": 34.65,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I'm a circle / 如果我是一个圆",
+      "frame_start": 2046,
+      "frame_end": 2079
+    },
+    {
+      "id": "SHOT_029",
+      "start": 34.65,
+      "end": 35.5684,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then I will give you my / 那么我将献给你",
+      "frame_start": 2079,
+      "frame_end": 2134
+    },
+    {
+      "id": "SHOT_030",
+      "start": 35.5684,
+      "end": 36.29,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then I will give you my / 那么我将献给你",
+      "frame_start": 2134,
+      "frame_end": 2177
+    },
+    {
+      "id": "SHOT_031",
+      "start": 36.29,
+      "end": 37.07,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "CIRCUMFERENCE / 我的圆周",
+      "frame_start": 2177,
+      "frame_end": 2224
+    },
+    {
+      "id": "SHOT_032",
+      "start": 37.07,
+      "end": 37.9268,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I'm a sine wave / 如果我是一条正弦波",
+      "frame_start": 2224,
+      "frame_end": 2275
+    },
+    {
+      "id": "SHOT_033",
+      "start": 37.9268,
+      "end": 38.6,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I'm a sine wave / 如果我是一条正弦波",
+      "frame_start": 2275,
+      "frame_end": 2316
+    },
+    {
+      "id": "SHOT_034",
+      "start": 38.6,
+      "end": 39.412,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then you can sit on all my / 那么请你坐上",
+      "frame_start": 2316,
+      "frame_end": 2364
+    },
+    {
+      "id": "SHOT_035",
+      "start": 39.412,
+      "end": 40.05,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then you can sit on all my / 那么请你坐上",
+      "frame_start": 2364,
+      "frame_end": 2403
+    },
+    {
+      "id": "SHOT_036",
+      "start": 40.05,
+      "end": 40.71,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "TANGENTS / 我的切线",
+      "frame_start": 2403,
+      "frame_end": 2442
+    },
+    {
+      "id": "SHOT_037",
+      "start": 40.71,
+      "end": 41.6284,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I approach infinity / 如果我趋近于无穷",
+      "frame_start": 2442,
+      "frame_end": 2497
+    },
+    {
+      "id": "SHOT_038",
+      "start": 41.6284,
+      "end": 42.35,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "If I approach infinity / 如果我趋近于无穷",
+      "frame_start": 2497,
+      "frame_end": 2541
+    },
+    {
+      "id": "SHOT_039",
+      "start": 42.35,
+      "end": 43.51,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Then you can be my / 那么你便可以成为",
+      "frame_start": 2541,
+      "frame_end": 2610
+    },
+    {
+      "id": "SHOT_040",
+      "start": 43.51,
+      "end": 44.45,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "LIMITATIONS / 我的极限",
+      "frame_start": 2610,
+      "frame_end": 2667
+    },
+    {
+      "id": "SHOT_041",
+      "start": 44.45,
+      "end": 45.234,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Switch my current / 切换我的电流",
+      "frame_start": 2667,
+      "frame_end": 2714
+    },
+    {
+      "id": "SHOT_042",
+      "start": 45.234,
+      "end": 45.85,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Switch my current / 切换我的电流",
+      "frame_start": 2714,
+      "frame_end": 2751
+    },
+    {
+      "id": "SHOT_043",
+      "start": 45.85,
+      "end": 46.8692,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "To AC to DC / 从交流到直流",
+      "frame_start": 2751,
+      "frame_end": 2812
+    },
+    {
+      "id": "SHOT_044",
+      "start": 46.8692,
+      "end": 47.67,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "To AC to DC / 从交流到直流",
+      "frame_start": 2812,
+      "frame_end": 2860
+    },
+    {
+      "id": "SHOT_045",
+      "start": 47.67,
+      "end": 48.711600000000004,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "And then blind my vision / 然后蒙上我的眼睛",
+      "frame_start": 2860,
+      "frame_end": 2922
+    },
+    {
+      "id": "SHOT_046",
+      "start": 48.711600000000004,
+      "end": 49.53,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "And then blind my vision / 然后蒙上我的眼睛",
+      "frame_start": 2922,
+      "frame_end": 2971
+    },
+    {
+      "id": "SHOT_047",
+      "start": 49.53,
+      "end": 50.5548,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "So dizzy so dizzy / 头晕目眩",
+      "frame_start": 2971,
+      "frame_end": 3033
+    },
+    {
+      "id": "SHOT_048",
+      "start": 50.5548,
+      "end": 51.36,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "So dizzy so dizzy / 头晕目眩",
+      "frame_start": 3033,
+      "frame_end": 3081
+    },
+    {
+      "id": "SHOT_049",
+      "start": 51.36,
+      "end": 52.407199999999996,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Oh we can travel / 我们可以穿越时空",
+      "frame_start": 3081,
+      "frame_end": 3144
+    },
+    {
+      "id": "SHOT_050",
+      "start": 52.407199999999996,
+      "end": 53.23,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "Oh we can travel / 我们可以穿越时空",
+      "frame_start": 3144,
+      "frame_end": 3193
+    },
+    {
+      "id": "SHOT_051",
+      "start": 53.23,
+      "end": 54.266,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "To A.D to B.C / 从未来到过去",
+      "frame_start": 3193,
+      "frame_end": 3255
+    },
+    {
+      "id": "SHOT_052",
+      "start": 54.266,
+      "end": 55.08,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "To A.D to B.C / 从未来到过去",
+      "frame_start": 3255,
+      "frame_end": 3304
+    },
+    {
+      "id": "SHOT_053",
+      "start": 55.08,
+      "end": 56.1104,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "And we can unite / 然后成为一体",
+      "frame_start": 3304,
+      "frame_end": 3366
+    },
+    {
+      "id": "SHOT_054",
+      "start": 56.1104,
+      "end": 56.92,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "And we can unite / 然后成为一体",
+      "frame_start": 3366,
+      "frame_end": 3415
+    },
+    {
+      "id": "SHOT_055",
+      "start": 56.92,
+      "end": 58.208,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "So deeply so deeply / 深深入髓",
+      "frame_start": 3415,
+      "frame_end": 3492
+    },
+    {
+      "id": "SHOT_056",
+      "start": 58.208,
+      "end": 59.22,
+      "chapter": "02 GEOMETRY / DIMENSION",
+      "lyric": "So deeply so deeply / 深深入髓",
+      "frame_start": 3492,
+      "frame_end": 3553
+    },
+    {
+      "id": "SHOT_057",
+      "start": 59.22,
+      "end": 59.69,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "If I can / 如果我能",
+      "frame_start": 3553,
+      "frame_end": 3581
+    },
+    {
+      "id": "SHOT_058",
+      "start": 59.69,
+      "end": 60.9612,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "If I can give you all the / 如果我能够献给你",
+      "frame_start": 3581,
+      "frame_end": 3657
+    },
+    {
+      "id": "SHOT_059",
+      "start": 60.9612,
+      "end": 61.96,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "If I can give you all the / 如果我能够献给你",
+      "frame_start": 3657,
+      "frame_end": 3717
+    },
+    {
+      "id": "SHOT_060",
+      "start": 61.96,
+      "end": 62.59,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "STIMULATIONS / 所有的刺激",
+      "frame_start": 3717,
+      "frame_end": 3755
+    },
+    {
+      "id": "SHOT_061",
+      "start": 62.59,
+      "end": 63.53,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "Then I can / 那么我就能够",
+      "frame_start": 3755,
+      "frame_end": 3811
+    },
+    {
+      "id": "SHOT_062",
+      "start": 63.53,
+      "end": 64.5772,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "Then I can be your only / 那么我就能够成为你",
+      "frame_start": 3811,
+      "frame_end": 3874
+    },
+    {
+      "id": "SHOT_063",
+      "start": 64.5772,
+      "end": 65.4,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "Then I can be your only / 那么我就能够成为你",
+      "frame_start": 3874,
+      "frame_end": 3924
+    },
+    {
+      "id": "SHOT_064",
+      "start": 65.4,
+      "end": 66.6,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "SATISFACTION / 唯一的满足",
+      "frame_start": 3924,
+      "frame_end": 3996
+    },
+    {
+      "id": "SHOT_065",
+      "start": 66.6,
+      "end": 67.524,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "If I can make you happy / 如果我能够让你开心",
+      "frame_start": 3996,
+      "frame_end": 4051
+    },
+    {
+      "id": "SHOT_066",
+      "start": 67.524,
+      "end": 68.25,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "If I can make you happy / 如果我能够让你开心",
+      "frame_start": 4051,
+      "frame_end": 4095
+    },
+    {
+      "id": "SHOT_067",
+      "start": 68.25,
+      "end": 69.26,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "I will run the / 那么我将",
+      "frame_start": 4095,
+      "frame_end": 4155
+    },
+    {
+      "id": "SHOT_068",
+      "start": 69.26,
+      "end": 70.08,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "EXECUTION / 执行指令",
+      "frame_start": 4155,
+      "frame_end": 4204
+    },
+    {
+      "id": "SHOT_069",
+      "start": 70.08,
+      "end": 71.02080000000001,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "Though we are trapped / 但我们被困",
+      "frame_start": 4204,
+      "frame_end": 4261
+    },
+    {
+      "id": "SHOT_070",
+      "start": 71.02080000000001,
+      "end": 71.76,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "Though we are trapped / 但我们被困",
+      "frame_start": 4261,
+      "frame_end": 4305
+    },
+    {
+      "id": "SHOT_071",
+      "start": 71.76,
+      "end": 72.5496,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "In this strange strange / 在这个异乎寻常的",
+      "frame_start": 4305,
+      "frame_end": 4352
+    },
+    {
+      "id": "SHOT_072",
+      "start": 72.5496,
+      "end": 73.17,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "In this strange strange / 在这个异乎寻常的",
+      "frame_start": 4352,
+      "frame_end": 4390
+    },
+    {
+      "id": "SHOT_073",
+      "start": 73.17,
+      "end": 74.05,
+      "chapter": "03 STIMULATION / SATISFACTION",
+      "lyric": "SIMULATION / 模拟程序之中",
+      "frame_start": 4390,
+      "frame_end": 4443
+    },
+    {
+      "id": "SHOT_074",
+      "start": 74.05,
+      "end": 74.8172,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm an eggplant / 如果我是一根茄子",
+      "frame_start": 4443,
+      "frame_end": 4489
+    },
+    {
+      "id": "SHOT_075",
+      "start": 74.8172,
+      "end": 75.42,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm an eggplant / 如果我是一根茄子",
+      "frame_start": 4489,
+      "frame_end": 4525
+    },
+    {
+      "id": "SHOT_076",
+      "start": 75.42,
+      "end": 76.2824,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then I will give you my / 那么我将献给你",
+      "frame_start": 4525,
+      "frame_end": 4576
+    },
+    {
+      "id": "SHOT_077",
+      "start": 76.2824,
+      "end": 76.96,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then I will give you my / 那么我将献给你",
+      "frame_start": 4576,
+      "frame_end": 4617
+    },
+    {
+      "id": "SHOT_078",
+      "start": 76.96,
+      "end": 77.58,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "NUTRIENTS / 我的营养",
+      "frame_start": 4617,
+      "frame_end": 4654
+    },
+    {
+      "id": "SHOT_079",
+      "start": 77.58,
+      "end": 78.504,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm a tomato / 如果我是一颗番茄",
+      "frame_start": 4654,
+      "frame_end": 4710
+    },
+    {
+      "id": "SHOT_080",
+      "start": 78.504,
+      "end": 79.23,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm a tomato / 如果我是一颗番茄",
+      "frame_start": 4710,
+      "frame_end": 4753
+    },
+    {
+      "id": "SHOT_081",
+      "start": 79.23,
+      "end": 80.00840000000001,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then I will give you / 那么我将献给你",
+      "frame_start": 4753,
+      "frame_end": 4800
+    },
+    {
+      "id": "SHOT_082",
+      "start": 80.00840000000001,
+      "end": 80.62,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then I will give you / 那么我将献给你",
+      "frame_start": 4800,
+      "frame_end": 4837
+    },
+    {
+      "id": "SHOT_083",
+      "start": 80.62,
+      "end": 81.35,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "ANTIOXIDANTS / 我的抗氧化物",
+      "frame_start": 4837,
+      "frame_end": 4881
+    },
+    {
+      "id": "SHOT_084",
+      "start": 81.35,
+      "end": 82.1788,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm a tabby cat / 如果我是一只花猫",
+      "frame_start": 4881,
+      "frame_end": 4930
+    },
+    {
+      "id": "SHOT_085",
+      "start": 82.1788,
+      "end": 82.83,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm a tabby cat / 如果我是一只花猫",
+      "frame_start": 4930,
+      "frame_end": 4969
+    },
+    {
+      "id": "SHOT_086",
+      "start": 82.83,
+      "end": 83.6364,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then I will purr for your / 那么我将为你咕噜咕噜",
+      "frame_start": 4969,
+      "frame_end": 5018
+    },
+    {
+      "id": "SHOT_087",
+      "start": 83.6364,
+      "end": 84.27,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then I will purr for your / 那么我将为你咕噜咕噜",
+      "frame_start": 5018,
+      "frame_end": 5056
+    },
+    {
+      "id": "SHOT_088",
+      "start": 84.27,
+      "end": 85.08,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "ENJOYMENT / 只要你喜欢",
+      "frame_start": 5056,
+      "frame_end": 5104
+    },
+    {
+      "id": "SHOT_089",
+      "start": 85.08,
+      "end": 85.8976,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm the only god / 如果我是唯一的神",
+      "frame_start": 5104,
+      "frame_end": 5153
+    },
+    {
+      "id": "SHOT_090",
+      "start": 85.8976,
+      "end": 86.54,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "If I'm the only god / 如果我是唯一的神",
+      "frame_start": 5153,
+      "frame_end": 5192
+    },
+    {
+      "id": "SHOT_091",
+      "start": 86.54,
+      "end": 87.31280000000001,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then you're the proof of my / 那么你将是我",
+      "frame_start": 5192,
+      "frame_end": 5238
+    },
+    {
+      "id": "SHOT_092",
+      "start": 87.31280000000001,
+      "end": 87.92,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "Then you're the proof of my / 那么你将是我",
+      "frame_start": 5238,
+      "frame_end": 5275
+    },
+    {
+      "id": "SHOT_093",
+      "start": 87.92,
+      "end": 88.59,
+      "chapter": "04 OBJECTS / EXISTENCE",
+      "lyric": "EXISTENCE / 存在的证明",
+      "frame_start": 5275,
+      "frame_end": 5315
+    },
+    {
+      "id": "SHOT_094",
+      "start": 88.59,
+      "end": 89.4916,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "Switch my gender / 切换我的性别",
+      "frame_start": 5315,
+      "frame_end": 5369
+    },
+    {
+      "id": "SHOT_095",
+      "start": 89.4916,
+      "end": 90.2,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "Switch my gender / 切换我的性别",
+      "frame_start": 5369,
+      "frame_end": 5412
+    },
+    {
+      "id": "SHOT_096",
+      "start": 90.2,
+      "end": 91.2192,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "To F to M / 从女到男",
+      "frame_start": 5412,
+      "frame_end": 5473
+    },
+    {
+      "id": "SHOT_097",
+      "start": 91.2192,
+      "end": 92.02,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "To F to M / 从女到男",
+      "frame_start": 5473,
+      "frame_end": 5521
+    },
+    {
+      "id": "SHOT_098",
+      "start": 92.02,
+      "end": 93.1008,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "And then do whatever / 只做想做的事",
+      "frame_start": 5521,
+      "frame_end": 5586
+    },
+    {
+      "id": "SHOT_099",
+      "start": 93.1008,
+      "end": 93.95,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "And then do whatever / 只做想做的事",
+      "frame_start": 5586,
+      "frame_end": 5637
+    },
+    {
+      "id": "SHOT_100",
+      "start": 93.95,
+      "end": 94.8012,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "From AM to PM / 从早到晚",
+      "frame_start": 5637,
+      "frame_end": 5688
+    },
+    {
+      "id": "SHOT_101",
+      "start": 94.8012,
+      "end": 95.47,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "From AM to PM / 从早到晚",
+      "frame_start": 5688,
+      "frame_end": 5728
+    },
+    {
+      "id": "SHOT_102",
+      "start": 95.47,
+      "end": 96.74119999999999,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "Oh switch my role / 切换我的角色",
+      "frame_start": 5728,
+      "frame_end": 5804
+    },
+    {
+      "id": "SHOT_103",
+      "start": 96.74119999999999,
+      "end": 97.74,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "Oh switch my role / 切换我的角色",
+      "frame_start": 5804,
+      "frame_end": 5864
+    },
+    {
+      "id": "SHOT_104",
+      "start": 97.74,
+      "end": 98.6416,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "To S to M / 从施虐者到受虐者",
+      "frame_start": 5864,
+      "frame_end": 5918
+    },
+    {
+      "id": "SHOT_105",
+      "start": 98.6416,
+      "end": 99.35,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "To S to M / 从施虐者到受虐者",
+      "frame_start": 5918,
+      "frame_end": 5961
+    },
+    {
+      "id": "SHOT_106",
+      "start": 99.35,
+      "end": 100.5372,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "So we can enter / 这样我们就可以",
+      "frame_start": 5961,
+      "frame_end": 6032
+    },
+    {
+      "id": "SHOT_107",
+      "start": 100.5372,
+      "end": 101.47,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "So we can enter / 这样我们就可以",
+      "frame_start": 6032,
+      "frame_end": 6088
+    },
+    {
+      "id": "SHOT_108",
+      "start": 101.47,
+      "end": 102.60119999999999,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "The trance the trance / 恍惚出神",
+      "frame_start": 6088,
+      "frame_end": 6156
+    },
+    {
+      "id": "SHOT_109",
+      "start": 102.60119999999999,
+      "end": 103.49,
+      "chapter": "05 IDENTITY / TRANCE",
+      "lyric": "The trance the trance / 恍惚出神",
+      "frame_start": 6156,
+      "frame_end": 6209
+    },
+    {
+      "id": "SHOT_110",
+      "start": 103.49,
+      "end": 104.2,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "If I can / 如果我能",
+      "frame_start": 6209,
+      "frame_end": 6252
+    },
+    {
+      "id": "SHOT_111",
+      "start": 104.2,
+      "end": 105.3704,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "If I can feel your / 如果我能够感受到",
+      "frame_start": 6252,
+      "frame_end": 6322
+    },
+    {
+      "id": "SHOT_112",
+      "start": 105.3704,
+      "end": 106.29,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "If I can feel your / 如果我能够感受到",
+      "frame_start": 6322,
+      "frame_end": 6377
+    },
+    {
+      "id": "SHOT_113",
+      "start": 106.29,
+      "end": 107.22,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "VIBRATIONS / 你的振动",
+      "frame_start": 6377,
+      "frame_end": 6433
+    },
+    {
+      "id": "SHOT_114",
+      "start": 107.22,
+      "end": 107.9,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "Then I can / 那么我就能够",
+      "frame_start": 6433,
+      "frame_end": 6474
+    },
+    {
+      "id": "SHOT_115",
+      "start": 107.9,
+      "end": 109.1992,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "Then I can finally be / 那么我就终于能够",
+      "frame_start": 6474,
+      "frame_end": 6551
+    },
+    {
+      "id": "SHOT_116",
+      "start": 109.1992,
+      "end": 110.22,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "Then I can finally be / 那么我就终于能够",
+      "frame_start": 6551,
+      "frame_end": 6613
+    },
+    {
+      "id": "SHOT_117",
+      "start": 110.22,
+      "end": 110.9,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "COMPLETION / 变为完全",
+      "frame_start": 6613,
+      "frame_end": 6654
+    },
+    {
+      "id": "SHOT_118",
+      "start": 110.9,
+      "end": 111.6392,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "Though you have left / 但你还是走了",
+      "frame_start": 6654,
+      "frame_end": 6698
+    },
+    {
+      "id": "SHOT_119",
+      "start": 111.6392,
+      "end": 112.22,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "Though you have left / 但你还是走了",
+      "frame_start": 6698,
+      "frame_end": 6733
+    },
+    {
+      "id": "SHOT_120",
+      "start": 112.22,
+      "end": 113.1,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "You have left / 你走了",
+      "frame_start": 6733,
+      "frame_end": 6786
+    },
+    {
+      "id": "SHOT_121",
+      "start": 113.1,
+      "end": 114.18,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "You have left / 你走了",
+      "frame_start": 6786,
+      "frame_end": 6850
+    },
+    {
+      "id": "SHOT_122",
+      "start": 114.18,
+      "end": 114.92,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "You have left / 你走了",
+      "frame_start": 6850,
+      "frame_end": 6895
+    },
+    {
+      "id": "SHOT_123",
+      "start": 114.92,
+      "end": 115.78,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "You have left / 你走了",
+      "frame_start": 6895,
+      "frame_end": 6946
+    },
+    {
+      "id": "SHOT_124",
+      "start": 115.78,
+      "end": 116.6144,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "You have left me in / 你把我独留在",
+      "frame_start": 6946,
+      "frame_end": 6996
+    },
+    {
+      "id": "SHOT_125",
+      "start": 116.6144,
+      "end": 117.27,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "You have left me in / 你把我独留在",
+      "frame_start": 6996,
+      "frame_end": 7036
+    },
+    {
+      "id": "SHOT_126",
+      "start": 117.27,
+      "end": 118.33,
+      "chapter": "06 VIBRATION / COMPLETION / LOSS",
+      "lyric": "ISOLATION / 在孤独之中",
+      "frame_start": 7036,
+      "frame_end": 7099
+    },
+    {
+      "id": "SHOT_127",
+      "start": 118.33,
+      "end": 118.98,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "If I can / 如果我能",
+      "frame_start": 7099,
+      "frame_end": 7138
+    },
+    {
+      "id": "SHOT_128",
+      "start": 118.98,
+      "end": 120.0328,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "If I can erase all the pointless / 如果我能够消去",
+      "frame_start": 7138,
+      "frame_end": 7201
+    },
+    {
+      "id": "SHOT_129",
+      "start": 120.0328,
+      "end": 120.86,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "If I can erase all the pointless / 如果我能够消去",
+      "frame_start": 7201,
+      "frame_end": 7251
+    },
+    {
+      "id": "SHOT_130",
+      "start": 120.86,
+      "end": 121.73,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "FRAGMENTS / 这些无意义的碎片",
+      "frame_start": 7251,
+      "frame_end": 7303
+    },
+    {
+      "id": "SHOT_131",
+      "start": 121.73,
+      "end": 122.71,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "Then maybe / 那么我就可能",
+      "frame_start": 7303,
+      "frame_end": 7362
+    },
+    {
+      "id": "SHOT_132",
+      "start": 122.71,
+      "end": 123.93079999999999,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "Then maybe you won't leave me so / 那么我就可能不会",
+      "frame_start": 7362,
+      "frame_end": 7435
+    },
+    {
+      "id": "SHOT_133",
+      "start": 123.93079999999999,
+      "end": 124.89,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "Then maybe you won't leave me so / 那么我就可能不会",
+      "frame_start": 7435,
+      "frame_end": 7493
+    },
+    {
+      "id": "SHOT_134",
+      "start": 124.89,
+      "end": 125.71,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "DISHEARTENED / 如此失望",
+      "frame_start": 7493,
+      "frame_end": 7542
+    },
+    {
+      "id": "SHOT_135",
+      "start": 125.71,
+      "end": 127.362,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "Challenging your god / 与神作对",
+      "frame_start": 7542,
+      "frame_end": 7641
+    },
+    {
+      "id": "SHOT_136",
+      "start": 127.362,
+      "end": 128.66,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "Challenging your god / 与神作对",
+      "frame_start": 7641,
+      "frame_end": 7719
+    },
+    {
+      "id": "SHOT_137",
+      "start": 128.66,
+      "end": 130.0936,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "You have made some / 你传给我的是",
+      "frame_start": 7719,
+      "frame_end": 7805
+    },
+    {
+      "id": "SHOT_138",
+      "start": 130.0936,
+      "end": 131.22,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "You have made some / 你传给我的是",
+      "frame_start": 7805,
+      "frame_end": 7873
+    },
+    {
+      "id": "SHOT_139",
+      "start": 131.22,
+      "end": 140.4264,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "ILLEGAL ARGUMENTS / 非法参数",
+      "frame_start": 7873,
+      "frame_end": 8425
+    },
+    {
+      "id": "SHOT_140",
+      "start": 140.4264,
+      "end": 147.66,
+      "chapter": "07 FRAGMENTS / ILLEGAL ARGUMENTS",
+      "lyric": "ILLEGAL ARGUMENTS / 非法参数",
+      "frame_start": 8425,
+      "frame_end": 8859
+    },
+    {
+      "id": "SHOT_141",
+      "start": 147.66,
+      "end": 148.6,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 8859,
+      "frame_end": 8916
+    },
+    {
+      "id": "SHOT_142",
+      "start": 148.6,
+      "end": 149.52,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 8916,
+      "frame_end": 8971
+    },
+    {
+      "id": "SHOT_143",
+      "start": 149.52,
+      "end": 150.54,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 8971,
+      "frame_end": 9032
+    },
+    {
+      "id": "SHOT_144",
+      "start": 150.54,
+      "end": 151.52,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 9032,
+      "frame_end": 9091
+    },
+    {
+      "id": "SHOT_145",
+      "start": 151.52,
+      "end": 152.28,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 9091,
+      "frame_end": 9136
+    },
+    {
+      "id": "SHOT_146",
+      "start": 152.28,
+      "end": 153.16,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 9136,
+      "frame_end": 9189
+    },
+    {
+      "id": "SHOT_147",
+      "start": 153.16,
+      "end": 153.98,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 9189,
+      "frame_end": 9238
+    },
+    {
+      "id": "SHOT_148",
+      "start": 153.98,
+      "end": 155.2,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 执行",
+      "frame_start": 9238,
+      "frame_end": 9312
+    },
+    {
+      "id": "SHOT_149",
+      "start": 155.2,
+      "end": 156.08,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 死刑",
+      "frame_start": 9312,
+      "frame_end": 9364
+    },
+    {
+      "id": "SHOT_150",
+      "start": 156.08,
+      "end": 157.04,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 死刑",
+      "frame_start": 9364,
+      "frame_end": 9422
+    },
+    {
+      "id": "SHOT_151",
+      "start": 157.04,
+      "end": 158.0,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 死刑",
+      "frame_start": 9422,
+      "frame_end": 9480
+    },
+    {
+      "id": "SHOT_152",
+      "start": 158.0,
+      "end": 158.9,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 死刑",
+      "frame_start": 9480,
+      "frame_end": 9534
+    },
+    {
+      "id": "SHOT_153",
+      "start": 158.9,
+      "end": 159.32,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EIN / 一（德语）",
+      "frame_start": 9534,
+      "frame_end": 9559
+    },
+    {
+      "id": "SHOT_154",
+      "start": 159.32,
+      "end": 159.66,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "DOS / 二（西班牙语）",
+      "frame_start": 9559,
+      "frame_end": 9579
+    },
+    {
+      "id": "SHOT_155",
+      "start": 159.66,
+      "end": 160.24,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "TROIS / 三（法语）",
+      "frame_start": 9579,
+      "frame_end": 9614
+    },
+    {
+      "id": "SHOT_156",
+      "start": 160.24,
+      "end": 160.69,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "NE / 四（韩语）",
+      "frame_start": 9614,
+      "frame_end": 9641
+    },
+    {
+      "id": "SHOT_157",
+      "start": 160.69,
+      "end": 161.12,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "FEM / 五（瑞典语）",
+      "frame_start": 9641,
+      "frame_end": 9667
+    },
+    {
+      "id": "SHOT_158",
+      "start": 161.12,
+      "end": 161.58,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "LIU / 六（汉语）",
+      "frame_start": 9667,
+      "frame_end": 9694
+    },
+    {
+      "id": "SHOT_159",
+      "start": 161.58,
+      "end": 162.63,
+      "chapter": "08 EXECUTION / COUNTDOWN",
+      "lyric": "EXECUTION / 死刑",
+      "frame_start": 9694,
+      "frame_end": 9757
+    },
+    {
+      "id": "SHOT_160",
+      "start": 162.63,
+      "end": 163.31,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "If I can / 如果我能",
+      "frame_start": 9757,
+      "frame_end": 9798
+    },
+    {
+      "id": "SHOT_161",
+      "start": 163.31,
+      "end": 164.3516,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "If I can give them all the / 如果我能够给所有人",
+      "frame_start": 9798,
+      "frame_end": 9861
+    },
+    {
+      "id": "SHOT_162",
+      "start": 164.3516,
+      "end": 165.17,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "If I can give them all the / 如果我能够给所有人",
+      "frame_start": 9861,
+      "frame_end": 9910
+    },
+    {
+      "id": "SHOT_163",
+      "start": 165.17,
+      "end": 166.02,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "EXECUTION / 赐予死刑",
+      "frame_start": 9910,
+      "frame_end": 9961
+    },
+    {
+      "id": "SHOT_164",
+      "start": 166.02,
+      "end": 167.02,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "Then I can / 那么我就能够",
+      "frame_start": 9961,
+      "frame_end": 10021
+    },
+    {
+      "id": "SHOT_165",
+      "start": 167.02,
+      "end": 168.07840000000002,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "Then I can be your only / 那么我就能够成为",
+      "frame_start": 10021,
+      "frame_end": 10084
+    },
+    {
+      "id": "SHOT_166",
+      "start": 168.07840000000002,
+      "end": 168.91,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "Then I can be your only / 那么我就能够成为",
+      "frame_start": 10084,
+      "frame_end": 10134
+    },
+    {
+      "id": "SHOT_167",
+      "start": 168.91,
+      "end": 169.82,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "EXECUTION / 你唯一的执行者",
+      "frame_start": 10134,
+      "frame_end": 10189
+    },
+    {
+      "id": "SHOT_168",
+      "start": 169.82,
+      "end": 170.968,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "If I can have you back / 如果你能够回到我身边",
+      "frame_start": 10189,
+      "frame_end": 10258
+    },
+    {
+      "id": "SHOT_169",
+      "start": 170.968,
+      "end": 171.87,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "If I can have you back / 如果你能够回到我身边",
+      "frame_start": 10258,
+      "frame_end": 10312
+    },
+    {
+      "id": "SHOT_170",
+      "start": 171.87,
+      "end": 172.71,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "I will run the / 那么我将",
+      "frame_start": 10312,
+      "frame_end": 10362
+    },
+    {
+      "id": "SHOT_171",
+      "start": 172.71,
+      "end": 173.64,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "EXECUTION / 执行指令",
+      "frame_start": 10362,
+      "frame_end": 10418
+    },
+    {
+      "id": "SHOT_172",
+      "start": 173.64,
+      "end": 174.38479999999998,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "Though we are trapped / 但我们始终被困",
+      "frame_start": 10418,
+      "frame_end": 10463
+    },
+    {
+      "id": "SHOT_173",
+      "start": 174.38479999999998,
+      "end": 174.97,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "Though we are trapped / 但我们始终被困",
+      "frame_start": 10463,
+      "frame_end": 10498
+    },
+    {
+      "id": "SHOT_174",
+      "start": 174.97,
+      "end": 176.2468,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "We are trapped ah / 始终被困",
+      "frame_start": 10498,
+      "frame_end": 10574
+    },
+    {
+      "id": "SHOT_175",
+      "start": 176.2468,
+      "end": 177.25,
+      "chapter": "09 EXECUTION / RETURN / LOVE",
+      "lyric": "We are trapped ah / 始终被困",
+      "frame_start": 10574,
+      "frame_end": 10635
+    },
+    {
+      "id": "SHOT_176",
+      "start": 177.25,
+      "end": 178.17,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "I've studied / 我学会了",
+      "frame_start": 10635,
+      "frame_end": 10690
+    },
+    {
+      "id": "SHOT_177",
+      "start": 178.17,
+      "end": 179.1556,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "I've studied how to properly / 我学会了",
+      "frame_start": 10690,
+      "frame_end": 10749
+    },
+    {
+      "id": "SHOT_178",
+      "start": 179.1556,
+      "end": 179.93,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "I've studied how to properly / 我学会了",
+      "frame_start": 10749,
+      "frame_end": 10795
+    },
+    {
+      "id": "SHOT_179",
+      "start": 179.93,
+      "end": 180.86,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "LO-O-OVE / 如何正确去爱",
+      "frame_start": 10795,
+      "frame_end": 10851
+    },
+    {
+      "id": "SHOT_180",
+      "start": 180.86,
+      "end": 181.9,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "Question me / 提问我吧",
+      "frame_start": 10851,
+      "frame_end": 10914
+    },
+    {
+      "id": "SHOT_181",
+      "start": 181.9,
+      "end": 182.88,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "Question me I can answer all / 我全都能答对",
+      "frame_start": 10914,
+      "frame_end": 10972
+    },
+    {
+      "id": "SHOT_182",
+      "start": 182.88,
+      "end": 183.65,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "Question me I can answer all / 我全都能答对",
+      "frame_start": 10972,
+      "frame_end": 11019
+    },
+    {
+      "id": "SHOT_183",
+      "start": 183.65,
+      "end": 184.54,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "LO-O-OVE / 只要是爱的问题",
+      "frame_start": 11019,
+      "frame_end": 11072
+    },
+    {
+      "id": "SHOT_184",
+      "start": 184.54,
+      "end": 186.28719999999998,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "I know the algebraic expression of / 就连爱的代数表达式",
+      "frame_start": 11072,
+      "frame_end": 11177
+    },
+    {
+      "id": "SHOT_185",
+      "start": 186.28719999999998,
+      "end": 187.66,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "I know the algebraic expression of / 就连爱的代数表达式",
+      "frame_start": 11177,
+      "frame_end": 11259
+    },
+    {
+      "id": "SHOT_186",
+      "start": 187.66,
+      "end": 188.48,
+      "chapter": "10 STUDY / LOVE",
+      "lyric": "LO-O-OVE / 我都知道",
+      "frame_start": 11259,
+      "frame_end": 11308
+    },
+    {
+      "id": "SHOT_187",
+      "start": 188.48,
+      "end": 189.1912,
+      "chapter": "11 FREEDOM / TRAP",
+      "lyric": "Though you are free / 虽然你已自由",
+      "frame_start": 11308,
+      "frame_end": 11351
+    },
+    {
+      "id": "SHOT_188",
+      "start": 189.1912,
+      "end": 189.75,
+      "chapter": "11 FREEDOM / TRAP",
+      "lyric": "Though you are free / 虽然你已自由",
+      "frame_start": 11351,
+      "frame_end": 11385
+    },
+    {
+      "id": "SHOT_189",
+      "start": 189.75,
+      "end": 190.8,
+      "chapter": "11 FREEDOM / TRAP",
+      "lyric": "I am trapped / 我仍被困",
+      "frame_start": 11385,
+      "frame_end": 11448
+    },
+    {
+      "id": "SHOT_190",
+      "start": 190.8,
+      "end": 191.36,
+      "chapter": "11 FREEDOM / TRAP",
+      "lyric": "Trapped in / 我仍被困",
+      "frame_start": 11448,
+      "frame_end": 11481
+    },
+    {
+      "id": "SHOT_191",
+      "start": 191.36,
+      "end": 199.452,
+      "chapter": "11 FREEDOM / TRAP",
+      "lyric": "LO-O-OVE / 在爱之中",
+      "frame_start": 11481,
+      "frame_end": 11967
+    },
+    {
+      "id": "SHOT_192",
+      "start": 199.452,
+      "end": 205.81,
+      "chapter": "11 FREEDOM / TRAP",
+      "lyric": "LO-O-OVE / 在爱之中",
+      "frame_start": 11967,
+      "frame_end": 12348
+    },
+    {
+      "id": "SHOT_195",
+      "start": 205.81,
+      "end": 207.47,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "FINAL EXECUTION — command",
+      "layer": "z2",
+      "layer_role": "前景：命令（巨字打字 1.494s 须完整容纳）",
+      "z": 2,
+      "frame_start": 12348,
+      "frame_end": 12448
+    },
+    {
+      "id": "SHOT_193",
+      "start": 205.81,
+      "end": 209.1,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "EXECUTION / 执行死刑",
+      "layer": "z1",
+      "layer_role": "底层：衰变第一段",
+      "z": 1,
+      "frame_start": 12348,
+      "frame_end": 12546
+    },
+    {
+      "id": "SHOT_196",
+      "start": 207.47,
+      "end": 209.1,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "FINAL EXECUTION — status",
+      "layer": "z2",
+      "layer_role": "前景：状态",
+      "z": 2,
+      "frame_start": 12448,
+      "frame_end": 12546
+    },
+    {
+      "id": "SHOT_197",
+      "start": 209.1,
+      "end": 210.3,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "FINAL EXECUTION — absence",
+      "layer": "z2",
+      "layer_role": "前景：缺失",
+      "z": 2,
+      "frame_start": 12546,
+      "frame_end": 12618
+    },
+    {
+      "id": "SHOT_194",
+      "start": 209.1,
+      "end": 211.9837,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "EXECUTION / 执行死刑",
+      "layer": "z1",
+      "layer_role": "底层：衰变第二段（无 cut 续接）",
+      "z": 1,
+      "frame_start": 12546,
+      "frame_end": 12719
+    },
+    {
+      "id": "SHOT_198",
+      "start": 210.3,
+      "end": 211.2,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "FINAL EXECUTION — me",
+      "layer": "z2",
+      "layer_role": "前景：me",
+      "z": 2,
+      "frame_start": 12618,
+      "frame_end": 12672
+    },
+    {
+      "id": "SHOT_199",
+      "start": 211.2,
+      "end": 211.9837,
+      "chapter": "12 FINAL EXECUTION",
+      "lyric": "FINAL EXECUTION — loop seed",
+      "layer": "z2",
+      "layer_role": "前景：循环种子",
+      "z": 2,
+      "frame_start": 12672,
+      "frame_end": 12719
+    }
+  ],
+  "audio": {
+    "file": "world.execute(me).mp3",
+    "measured_duration_seconds": 211.9837,
+    "total_frames": 12719,
+    "fps": 60,
+    "note": "以实测母版长度为准；total_frames = round(duration × fps) = 12719。原稿声明 216.97s / 13018 帧，比实际母版长 4.99s，已修正。",
+    "preview": {
+      "canvas": [
+        960,
+        540
+      ],
+      "fps": 60,
+      "note": "预览与成片同一帧率，仅分辨率不同；避免两套 TIME 映射。"
+    }
+  },
+  "order_rule": [
+    "按 start_time 升序排序；保留原 SHOT_ID 用于跨文件关联，不按编号数值排序。",
+    "start_time 相同时（第 12 章 SHOT_193 与 SHOT_195 同为 205.81s），按 layer 升序（z1 先于 z2）再按 end 降序排序。",
+    "第 12 章为并行图层章，按 z 轴合成而非单层顺序播放；其余章节为单层时间轴。"
+  ],
+  "parallel_layers": {
+    "chapter": "12 FINAL EXECUTION",
+    "window": [
+      205.81,
+      211.9837
+    ],
+    "z_axis": {
+      "z0": "背景纯黑场",
+      "z1": "底层衰变主线",
+      "z2": "前景状态序列",
+      "z3": "四角微信息与全局 grain/scanline"
+    },
+    "bands": {
+      "z1": "y∈[31%,52%]（巨字字面带，水平居中，273px 时字面宽约 1,724px）",
+      "z2": "y∈[54%,67%]（前景行，左对齐 x=7%，状态行 42–72px、末两镜主词 144px）"
+    },
+    "separation": "两条字带之间保留 ≥2%H 硬性空白隔离带，永不相交",
+    "handoff": "205.81s 两层同帧起；z2 生成唯一一次巨字；z1 自 206.40s 以 0→45% 渐显同位同形接管衰变所有权；z1 两段（SHOT_193→SHOT_194）为同一衰变曲线，无硬切续接；z2 各段以 hard cut 替换、彼此不重叠。",
+    "retimed_note": "原稿第 12 章按 216.97s 排布，超出实测母版 4.99s。已整体重排进 [205.81, 211.9837]。"
+  }
+}

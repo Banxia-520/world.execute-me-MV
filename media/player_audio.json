@@ -1,0 +1,8 @@
+{
+ "file": "web/media/player_audio.m4a",
+ "lead_silence_seconds": 3.0,
+ "master_seconds": 211.9837,
+ "trail_silence_seconds": 4.0,
+ "total_seconds": 218.9837,
+ "note": "播放器从 0 播放此文件即可，无需 seek；music 自 3.0s 起。尾部 4.0s 静音覆盖片尾卡区间，使 audio.currentTime 能走完整条播放时间轴。"
+}
