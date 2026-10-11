@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>world.execute(me);</title>
+<style>
+  :root{ --bg:#07111F; --ice:#EAF7FF; --cyan:#35D9E8; --grey:#587083; --line:#1d2c3f; }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--ice);
+    font:14px/1.5 "Inter","Segoe UI",system-ui,sans-serif}
+  body{display:flex;flex-direction:column;align-items:center;justify-content:center;
+    gap:18px;padding:24px}
+
+  h1{font-size:15px;margin:0;font-weight:700;letter-spacing:.04em;color:var(--grey)}
+
+  #stage{width:min(96vw,1600px);aspect-ratio:16/9;background:#000;
+    border:1px solid var(--line);border-radius:6px;overflow:hidden;
+    box-shadow:0 10px 40px rgba(0,0,0,.55)}
+  #cv{display:block;width:100%;height:100%}
+
+  #play{min-width:140px;padding:11px 26px;font-size:15px;font-weight:600;
+    font-family:inherit;color:var(--ice);background:#0B1320;
+    border:1px solid var(--line);border-radius:6px;cursor:pointer;
+    transition:border-color .15s,color .15s}
+  #play:hover{border-color:var(--cyan);color:var(--cyan)}
+  #play.playing{border-color:#FFD166;color:#FFD166}
+  #play:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+
+  /* 进度条 */
+  .bar{width:min(96vw,1600px);display:flex;align-items:center;gap:14px}
+  #seek{flex:1;height:4px;accent-color:var(--cyan);cursor:pointer}
+  #tc{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:12.5px;
+    color:var(--grey);white-space:nowrap;min-width:104px;text-align:right}
+  #tc b{color:var(--ice);font-weight:500}
+
+  /* 诊断行的样式已随 #diag 元素一并移除 */
+</style>
+</head>
+<body>
+  <h1>world.execute(me);</h1>
+  <div id="stage"><canvas id="cv"></canvas></div>
+  <div class="bar">
+    <button id="play">▶ 播放</button>
+    <input id="seek" type="range" min="0" max="10000" value="0" step="1"
+           aria-label="进度" />
+    <span id="tc"><b>00:00</b> / 00:00</span>
+  </div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>
